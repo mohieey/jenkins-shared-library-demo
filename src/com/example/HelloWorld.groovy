@@ -6,6 +6,6 @@ class HelloWorld {
         this.script = script
     }
     def sayGoodMorning(){
-        script.ech0 "=========GOOD MORNING+++++++++++"
+        script.echo "=========GOOD MORNING+++++++++++"
     }
 }
